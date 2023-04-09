@@ -2,7 +2,7 @@
  * @Author: Yen-Ju Chen  mru.11@nycu.edu.tw
  * @Date: 2023-03-23 21:22:33
  * @LastEditors: Yen-Ju Chen  mru.11@nycu.edu.tw
- * @LastEditTime: 2023-04-09 23:38:12
+ * @LastEditTime: 2023-04-09 23:48:04
  * @FilePath: /mru/Few-Shot-Learning/README.md
  * @Description: 
  * 
@@ -34,6 +34,8 @@
 │   ├── hw3_few_shot_learning.pdf
 │   └── Lecture4-Few-Shot-Learning.pdf
 ├── helper/
+│   ├── visualization.ipynb
+│   ├── view_performance.py
 │   ├── parameters.py
 │   └── utils.py
 ├── release/
@@ -50,8 +52,6 @@
 ├── run.sh
 ├── Readme.md
 ├── requirements.txt
-├── visualization.ipynb
-├── view_performance.py
 └── main.py
 ```
 Note: Make sure that the data file `release/` is at the path `./`
@@ -88,7 +88,7 @@ chmod +x ./scripts/{file_name}.sh
 ```
 Note: one can modify this file to tune any parameter
 
-Note: one can modify and run `view_performance.py` to see the tuning output 
+Note: one can modify and run `./helper/view_performance.py` to see the tuning output 
 
 <br/>
 
