@@ -134,3 +134,4 @@ myenv/*
 # model weight
 **/model.pt
 release/*
+**/tb_record/**
