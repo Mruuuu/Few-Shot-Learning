@@ -2,7 +2,7 @@
  # @Author: Yen-Ju Chen  mru.11@nycu.edu.tw
  # @Date: 2023-04-09 20:59:28
  # @LastEditors: Yen-Ju Chen  mru.11@nycu.edu.tw
- # @LastEditTime: 2023-04-09 21:15:15
+ # @LastEditTime: 2023-04-10 09:04:32
  # @FilePath: /mru/Few-Shot-Learning/scripts/tune_classical_fsl_seed.sh
  # @Description: 
  # 
