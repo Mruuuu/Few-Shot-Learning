@@ -2,13 +2,13 @@
 Author: Yen-Ju Chen  mru.11@nycu.edu.tw
 Date: 2023-03-14 20:39:05
 LastEditors: Yen-Ju Chen  mru.11@nycu.edu.tw
-LastEditTime: 2023-04-09 23:41:22
+LastEditTime: 2023-04-11 11:40:04
 FilePath: /mru/Few-Shot-Learning/helper/view_performance.py
 Description: 
 
 '''
 import os
-path = "./logs/tune_classical_fsl"
+path = "./logs/tune_classical_fsl_seed"
 
 
 acc=list()
